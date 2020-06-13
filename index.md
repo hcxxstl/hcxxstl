@@ -1,5 +1,4 @@
-# **Tianli Song**
-- hcxxstl@gmail.com
+
 
 ## **EDUCATION**
 ---
