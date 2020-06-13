@@ -1,7 +1,6 @@
 # **Tianli Song**
 - hcxxstl@gmail.com
 
-
 ## **EDUCATION**
 ---
 **Delft University of Technology (TUD)**  
