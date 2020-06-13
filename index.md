@@ -1,4 +1,4 @@
-hcxxstl@gmail.com
+[Email](hcxxstl@gmail.com)
 
 ## **EDUCATION**
 ---
