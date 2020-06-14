@@ -1,3 +1,5 @@
+<!-- # **Tianli Song** -->
+<!-- - hcxxstl@gmail.com -->
 
 
 ## **EDUCATION**
@@ -49,7 +51,9 @@ Bachelor of Science in Electronic Science and Technology
 - Simulated a bandpass optical filter based on micro-ring resonator structure in Lumerical FDTD Solutions, achieving a narrow passband of 0.8nm and a relatively large roll-off in the 1550 nm communication band (C-band)
 - Deduced and modeled the coupling relationship based on transfer matrix method in MATLAB, and simulated Vernier micro-ring structure as well as Coupled-Ring Optical Waveguide (CROW) structure
 - Designed a Vernier micro-ring resonator filter in Lumerical MODE Solutions, achieving a free spectral range larger than 45nm with an extinction ratio greater than 30dB, and an insertion loss below 3dB in the C-band
-- 
+- Designed a cascaded micro-ring-based reconfigurable filter consists of eight micro-rings, achieving an FSR of 45 nm, bandwidth adjustment range from 0.43 to 1.25 nm, and central wavelength adjustment range covering the entire FSR
+- Optimized this reconfigurable photonic filter in MODE Solutions simulator, and achieved an insertion loss less than 1dB, an extinction ratio larger than 25dB and passband flatness smaller than 0.5dB over all configurations
+
 
 **Design of Stabilized DC Power Supply**  
 *Advisor: Dr. Yan Yuan*  
@@ -89,7 +93,7 @@ Bachelor of Science in Electronic Science and Technology
 ## **MISCELLANEOUS**
 ---
 **Software**  
-MATLAB, Vivado, Modelsim, Cadence
+MATLAB, Vivado, Modelsim, Cadence Spectre, Genus, LTspice
 
 **Programming**  
 Python, C/C++, Verilog, VHDL, bash, LaTeX, tcl scripts, CUDA
@@ -107,4 +111,4 @@ Java for Android, Machine Learning, HTML CSS and JavaScript
 Skateboarding (President of SJTU Sk8 Club), Rubik's Cube (3*3 in 15 seconds), Photography
 
 ---
-<center>Updated on 13/06/2020</center>
+<center>Updated on 14/06/2020</center>
