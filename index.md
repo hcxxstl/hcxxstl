@@ -14,7 +14,7 @@ Bachelor of Science in Electronic Science and Technology
 - GPA: 3.47/4.0 (84.6/100)
 
 
-## **SELECTED RESEARCHES & PROJECTS**
+## **SELECTED RESEARCHES & COURSE PROJECTS**
 ---
 **Design of Time-to-Digital Convertor (TDC)**  
 *Advisor: Dr. Morteza Alavi*  
