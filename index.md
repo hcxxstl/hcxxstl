@@ -16,6 +16,20 @@ Bachelor of Science in Electronic Science and Technology
 
 ## **SELECTED RESEARCHES & COURSE PROJECTS**
 ---
+**Big Data Processing using Spark and Kafka**  
+*Advisor: Dr. Zaid Al-Ars*  
+*Sept. 2020 - Nov. 2020*
+-	Developed an application to process OpenStreetMap (OSM) data using Spark in Scala and improved its scalability
+-	Packaged the application and deployed it on Amazon EMR clusters to process the entire OSM data set (76 GB)
+-	Implemented a streaming application to filter and count records using Kafka Streams DSL and Processor API
+
+**SystemC Neural Network**  
+*Advisor: Dr. Ir. Rene van Leuken*  
+*May. 2020 - Jul. 2020*
+-	Implemented a one-layer artificial neural network (ANN) on SystemC Virtual Platform (SCVP) in SystemC and C++
+-	Optimized hardware resource usage of this design by replacing fix point numbers with integers
+-	Optimized the weight update algorithms by implementing backpropagation, which achieved an accuracy of 81% identifying the MNIST digits on the single layer structure with limited training set (64 images)
+
 **Design of Time-to-Digital Convertor (TDC)**  
 *Advisor: Dr. Morteza Alavi*  
 *Feb. 2020 - Apr. 2020*
@@ -25,7 +39,7 @@ Bachelor of Science in Electronic Science and Technology
 
 **SoC Design Based on rVEX Reconfigurable Architecture**  
 *Advisor: Dr. Sorin Cotofana*  
-*Nov. 2020 - Feb. 2020*  
+*Nov. 2019 - Feb. 2020*  
 - Performed Design Space Exploration (DSE) simulations via VEX toolchain, optimized the area and performance of the rVEX processor considering computational resources and memory configurations for different applications
 - Designed a SoC based on rVEX architecture to implement target operations, and performed DSE of it on FPGA
 - Designed a dual-core VEX processor to efficiently run the target benchmarks in parallel with minimum idle resources, and optimized the design to be well-balanced among occupied area, execution cycle and power consumption 
@@ -93,10 +107,10 @@ Bachelor of Science in Electronic Science and Technology
 ## **MISCELLANEOUS**
 ---
 **Software**  
-MATLAB, Vivado, Modelsim, Cadence Spectre, Genus, LTspice
+MATLAB, Vivado, Modelsim, Cadence Spectre, LTspice
 
 **Programming**  
-Python, C/C++, Verilog, VHDL, bash, LaTeX, tcl scripts, CUDA
+Python, C/C++, Verilog, VHDL, bash, LaTeX, tcl scripts, CUDA, Spark, Kafka
 
 **Award**  
 The 3rd Prize of SJTU Texas Instruments Cup Electronic Design Competition in 2017
@@ -111,4 +125,4 @@ Java for Android, Machine Learning, HTML CSS and JavaScript
 Skateboarding (President of SJTU Sk8 Club), Rubik's Cube (3*3 in 15 seconds), Photography
 
 ---
-<center>Updated on 14/06/2020</center>
+<center>Updated on 03/12/2020</center>
