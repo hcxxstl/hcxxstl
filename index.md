@@ -1,7 +1,7 @@
 <!-- # **Tianli Song** -->
 <!-- - hcxxstl@gmail.com -->
 
-[blog](posts/hacks.md)
+[blog](posts/hacks.html)
 
 ## **EDUCATION**
 
