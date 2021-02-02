@@ -1,11 +1,13 @@
-# Customize Bash Shell Prompt
-
-*by* **Terry**
-*on* **26/Jan/2021**
-
-## Abstract
+---
+title: Customize Bash Shell Prompt
+auther: terry
+layout: post
+excerpt_separator: <!--more-->
+---
 
 This is all about the **Linux environment variable `PS1`**.  
+<!--more-->
+
 You can customize the shell prompt by editing your `PS1` value in the `~/.bashrc` file.  
 For example, add this line to the `~/.bashrc` file:
 
