@@ -4,7 +4,7 @@
 
 layout: page
 title: Home
-permalink: /
+permalink: /home
 ---
 
 Hey hey.
