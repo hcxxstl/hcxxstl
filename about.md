@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-permalink: /about/
+#permalink: /about/
 ---
 
 I am currently a Master student of Microelectronics at Technical University of Delft in the Netherlands.

@@ -2,7 +2,7 @@
 layout: page
 author: terry
 title: Resume
-permalink: /resume/
+#permalink: /resume/
 ---
 
 ## **EDUCATION**
