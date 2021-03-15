@@ -2,6 +2,7 @@
 title: Chrome Shortcuts
 auther: terry
 layout: post
+categories: misc
 excerpt_separator: <!--more-->
 ---
 

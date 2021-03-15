@@ -2,6 +2,7 @@
 title: Log CPU Usage
 auther: terry
 layout: post
+categories: shell
 excerpt_separator: <!--more-->
 ---
 

@@ -2,6 +2,7 @@
 title: Customize Bash Shell Prompt
 auther: terry
 layout: post
+categories: shell
 excerpt_separator: <!--more-->
 ---
 
