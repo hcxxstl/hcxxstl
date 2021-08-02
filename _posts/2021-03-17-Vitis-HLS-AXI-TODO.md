@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Git Commands
+title: Vitis HLS AXI interfaces
 author: terry
-categories: git
+categories: Xilinx
 excerpt_separator: <!--more-->
 ---
 
-This article contains some useful git commands.
+TODO: This article contains some useful info about HLS interfaces.
 <!--more-->
 
 ## Commonly Used

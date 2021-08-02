@@ -2,7 +2,7 @@
 layout: post
 title: Vivado ila for Vitis flow on Alveo
 author: terry
-categories: xilinx
+categories: Xilinx
 excerpt_separator: <!--more-->
 ---
 
