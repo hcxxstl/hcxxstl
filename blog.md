@@ -1,7 +1,7 @@
 ---
 layout: home
 author: terry
-title: Blog
+title: BLOG
 
 #permalink: /blog/
 ---
