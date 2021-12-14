@@ -116,7 +116,7 @@ $ debug_hw --vivado --host qce-alveo01 --ltx_file debug_nets.ltx
 
 Alternatively, you can run Vivado hardware manager somewhere else and connect to remote target. First `open target` and connect to the hw_server at `host_name:3121`, then add virtual cable `host_name:10200`. Finally add the ltx file and you are ready to go.
 
-In the Vivado you can see the ILA module. Setup and run ILA trigger for your debugging.
+In the Vivado you can see the ILA module. Setup and run ILA triggers for your debugging.
 
 Finally, press Enter to continue running the host program (enqueue the kernel).
 
