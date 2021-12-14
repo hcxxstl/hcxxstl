@@ -35,7 +35,7 @@ Master thesis
 
 The project is publically available on the [Github repositiry](https://github.com/hcxxstl/Vitis_RoCE).
 
-<center><img src="_imgs/roce_top.png" width="400"/></center>
+<center><img src="imgs/roce_top.png" width="400"/></center>
 <br>
 
 **Simulation and Design of Micro-Ring Optical Filters**  
@@ -49,7 +49,7 @@ Bachelor thesis
 - Designed a cascaded micro-ring-based reconfigurable filter consists of eight micro-rings, achieving an FSR of 45 nm, bandwidth adjustment range from 0.43 to 1.25 nm, and central wavelength adjustment range covering the entire FSR
 - Optimized this reconfigurable photonic filter in MODE Solutions simulator, and achieved an insertion loss less than 1dB, an extinction ratio larger than 25dB and passband flatness smaller than 0.5dB over all configurations
 
-<center><img src="_imgs/photonic_filter.png" width="300"/></center>
+<center><img src="imgs/photonic_filter.png" width="300"/></center>
 
 ---
 
@@ -63,7 +63,7 @@ Bachelor thesis
 - Packaged the application and deployed it on Amazon EMR clusters to process the entire OSM data set (76 GB)
 - Implemented a streaming application to filter and count records using Kafka Streams DSL and Processor API
 
-<center><img src="_imgs/bigdata.gif" width="300"/></center>
+<center><img src="imgs/bigdata.gif" width="300"/></center>
 <br>
 
 **SystemC Neural Network**  
@@ -74,7 +74,7 @@ Bachelor thesis
 - Optimized hardware resource usage of this design by replacing fix point numbers with integers
 - Optimized the weight update algorithms by implementing backpropagation, which achieved an accuracy of 81% identifying the MNIST digits on the single layer structure with limited training set (64 images)
 
-<center><img src="_imgs/vlsi_mnist.png" width="200"/></center>
+<center><img src="imgs/vlsi_mnist.png" width="200"/></center>
 <br>
 
 **Design of Time-to-Digital Convertor (TDC)**  
@@ -85,7 +85,7 @@ Bachelor thesis
 - Developed the schematic design of the 2-D Vernier TDC from transistor level in Cadence Spectre
 - Optimized the TDC with buffers and redundant blocks, achieved a time resolution of 6.07ps and good linearity with both integral and differential non linearity below 0.3 in 90nm CMOS technology
 
-<center><img src="_imgs/tdc.png" width="200"/></center>
+<center><img src="imgs/tdc.png" width="200"/></center>
 <br>
 
 **SoC Design Based on rVEX Reconfigurable Architecture**  
@@ -96,7 +96,7 @@ Bachelor thesis
 - Designed a SoC based on rVEX architecture to implement target operations, and performed DSE of it on FPGA
 - Designed a dual-core VEX processor to efficiently run the target benchmarks in parallel with minimum idle resources, and optimized the design to be well-balanced among occupied area, execution cycle and power consumption
 
-<center><img src="_imgs/dualcore.png" width="300"/></center>
+<center><img src="imgs/dualcore.png" width="300"/></center>
 <br>
 
 **Design of Discrete-Time Fully Differential Amplifier**  
@@ -107,7 +107,7 @@ Bachelor thesis
 - Performed AC simulation, transient simulation and noise simulation for this differential amplifier
 - Sized the transistors in the amplifier and achieved 60dB accuracy in 9.78ns with power dissipation of 0.79mW
 
-<center><img src="_imgs/amplifier.jpg" width="200"/></center>  
+<center><img src="imgs/amplifier.jpg" width="200"/></center>  
 <br>
 
 **Optimization of Advanced Computing Systems**  
@@ -118,7 +118,7 @@ Bachelor thesis
 - Applied CUDA for to accelerate an imaging processing pipeline (including ripple effect and Gaussian blur) in C++
 - Implemented CUDA to improve the performance of a k-means clustering algorithm, and achieved a speedup of 90X
 
-<center><img src="_imgs/acs.png" width="200"/></center>
+<center><img src="imgs/acs.png" width="200"/></center>
 <br>
 
 **Design of Stabilized DC Power Supply**  

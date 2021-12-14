@@ -44,4 +44,5 @@ Being a subset of AXI4, AXI4-Lite fully compatible with AXI4 devices.
 > The AXI4-Stream protocol defines a single channel for transmission of streaming data. The AXI4-Stream channel is modeled after the Write Data channel of the AXI4.
 
 link
+
 * [diference to AXI4](https://developer.arm.com/documentation/ihi0051/a/Comparison-with-the-AXI4-Write-Data-Channel/Differences-to-the-AXI4-write-data-channel)
