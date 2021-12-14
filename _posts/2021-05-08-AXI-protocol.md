@@ -9,15 +9,15 @@ excerpt_separator: <!--more-->
 This article explains the AXI protocol. Advanced eXtensible Interface (AXI) is a parallel high performance, synchronous, high-frequency communication interface. It is also a burst-based protocol. AXI is used a lot for on-chip communication.
 <!--more-->
 
-* resources
+* Resources
   * [wiki](https://en.wikipedia.org/wiki/Advanced_eXtensible_Interface)
 
 ## Handshake
 
-* two handshake singnals
+* Two handshake signals
   * xVALID: driven by source to inform that data is valid
-  * xREADY: deiven by receiver to show it is ready to recieve data
-* when both xVALID and xREADY is high, a transfer is occured.
+  * xREADY: driven by receiver to show it is ready to receive data
+* when both xVALID and xREADY is high, a transfer is occurred.
 * **two rules (this is important!)**
   * source must not wait xREADY to assert xVALID
   * source must keep a high xVALID until a handshake occurs

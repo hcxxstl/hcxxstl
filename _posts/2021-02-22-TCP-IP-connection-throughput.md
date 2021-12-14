@@ -35,14 +35,14 @@ $$
 
 The amount of memory that sender/receiver can store buffer.
 
-* The reciever side: The amount of data it can accept without acknowledging the sender.
-* The transmitter side: The amount of data it can hold in memory without getting acknowledgement from reciever.
+* The receiver side: The amount of data it can accept without acknowledging the sender.
+* The transmitter side: The amount of data it can hold in memory without getting acknowledgement from receiver.
 
 ### Receive Window
 
-The size of available buffer of reciever side. If the reciever can not engress the data as the speed of ingrss, there will be some data not processed and occupy the buffer. Thus, the window size will become samller. If the reciever can consume the traffic at line rate, the window size will not shrink.
+The size of available buffer of receiver side. If the receiver can not egress the data as the speed of ingress, there will be some data not processed and occupy the buffer. Thus, the window size will become smaller. If the receiver can consume the traffic at line rate, the window size will not shrink.
 
-* The window size should be proportional to the BDP. The send side should have the same window size as the recieve side.
+* The window size should be proportional to the BDP. The send side should have the same window size as the receive side.
 * The largest window size is usually 65535 (64K - 1) Bytes, which is due to that the window size takes 2 bytes in the TCP header (2^16 = 64k)
 * With window scaling, a much larger size can be achieved. A scaling factor value is added to the TCP header. The scaling requires the capability on both sides confirmed during handshaking. A zero window size means the recieve buffer is full and can halt the transmission.
 
@@ -68,11 +68,11 @@ Where $MSS$ is maximum segment size, $ MSS = MTU - 40Bytes $, $P_{loss}$ is the 
 
 ### Parallelism
 
-A simple way to inprove throughput is to open multiple TCP connection in parallel. The throughput of single connection is limited by the factors mentioned above. But with parallelsim, we can scale up the throughput.
+A simple way to improve throughput is to open multiple TCP connection in parallel. The throughput of single connection is limited by the factors mentioned above. But with parallelism, we can scale up the throughput.
 
-### Physical Capatability
+### Physical Capability
 
-Apperantely, the physical link will ultimately limit the throughput. This set the upper boundof throughput.
+Apparently, the physical link will ultimately limit the throughput. This set the upper bound of throughput.
 
 <!-- TODO: categorize bottlenecks -->
 

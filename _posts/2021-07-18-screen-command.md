@@ -12,7 +12,7 @@ This article is about the usage of `screen` command. This command is a terminal 
 
 ## You can use it for
 
-* Run command in a seperate session in the background
+* Run command in a separate session in the background
 * Display multiple session in one terminal window
 * Keep jobs running after logging out remote server
 * Share a session with other user

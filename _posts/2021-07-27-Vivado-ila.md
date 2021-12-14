@@ -2,7 +2,7 @@
 layout: post
 title: Vivado ila for Vitis flow on Alveo
 author: terry
-categories: Xilinx
+categories: fpga
 excerpt_separator: <!--more-->
 ---
 
@@ -92,7 +92,7 @@ launching hw_server...
 ****************************
 ```
 
-Make sure to keep the hardware server running while launching ChipScope.
+Make sure to keep the hardware server running while launching ChipScope/Vivado hardware manager.
 
 ## Step 4: Debug flow
 
@@ -106,7 +106,7 @@ Device[1]: program successful!
 Press ENTER to continue after setting up ILA trigger...
 ```
 
-Then Launch Vivado Design Suite (ChipScope).
+Then Launch Vivado hardware manager (ChipScope) either locally or remotely:
 
 ```shell
 $ debug_hw --vivado --host <host_name> --ltx_file ./_x/link/vivado/vpl/prj/prj.runs/impl_1/debug_nets.ltx
@@ -114,9 +114,11 @@ $ debug_hw --vivado --host <host_name> --ltx_file ./_x/link/vivado/vpl/prj/prj.r
 $ debug_hw --vivado --host qce-alveo01 --ltx_file debug_nets.ltx
 ```
 
+Alternatively, you can run Vivado hardware manager somewhere else and connect to remote target. First `open target` and connect to the hw_server at `host_name:3121`, then add virtual cable `host_name:10200`. Finally add the ltx file and you are ready to go.
+
 In the Vivado you can see the ILA module. Setup and run ILA trigger for your debugging.
 
-Finally press Enter to continue running the host program (enqueue the kernel).
+Finally, press Enter to continue running the host program (enqueue the kernel).
 
 Now you can observe the captured waveform. Iterate this step 4 as required.
 

@@ -16,7 +16,7 @@ This post is about how to level up your productivity by using keyboard shortcuts
 |:heavy_check_mark:| `Ctrl` + `w` | Close current tab  |
 |:heavy_check_mark:| `Ctrl` + `t` | Open a new blank tab  |
 || `Ctrl` + `n` | Open a new blank tab in a new window  |
-|:heavy_check_mark:| `Ctrl` + `Shift` + `t` | Open all last closesd tabs  |
+|:heavy_check_mark:| `Ctrl` + `Shift` + `t` | Open all last closed tabs  |
 || `Ctrl` + `h` | Open history tab  |
 || `Ctrl` + `j` | Open Downloads tab  |
 
