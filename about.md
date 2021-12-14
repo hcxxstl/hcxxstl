@@ -6,5 +6,5 @@ title: About me
 
 I am currently a Master student of Microelectronics at Technical University of Delft in the Netherlands.
 
-My interests includes FPGA design, big data and networking.
+My interests include FPGA design, big data and networking.
 
