@@ -9,10 +9,14 @@ title: RESUME
 
 ## **EDUCATION**
 
+<center><img align="right" src="imgs/resume/TUDelft_Logo.png" height="60"/></center>
+
 **Delft University of Technology (TUD)**  
 Master of Science in Electrical Engineering, Microelectronics track  
 *Sept. 2019 – Nov 2021*  
 GPA: **7.85**/8
+
+<center><img align="right" src="imgs/resume/sjtulogoblue.png" height="60"/></center>
 
 **Shanghai Jiao Tong University (SJTU)**  
 Bachelor of Science in Electronic Science and Technology  
@@ -156,7 +160,7 @@ Bachelor thesis
 
 ## **INTERNSHIP**  
 
-**FPGA Design Intern at Shanghai Qian Ting Network Technology Co., Ltd.**
+**FPGA Design Intern at Shanghai Qian Ting Network Technology Co., Ltd.**  
 *Research and Development Department*  
 *Sept. 2018 - Feb. 2019*  
 
