@@ -48,7 +48,7 @@ header_pages:
   - resume.md
 show_excerpts: true
 excerpt_length: 80
-google_analytics: G-QVYDTTWQ54
+google_analytics: UA-215427016-1
 author: Terry
 
 # Exclude from processing.
