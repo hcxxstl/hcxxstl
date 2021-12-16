@@ -14,7 +14,7 @@ title: RESUME
 **Delft University of Technology (TUD)**  
 Master of Science in Electrical Engineering, Microelectronics track  
 *Sept. 2019 – Nov 2021*  
-GPA: **7.85**/8
+GPA: **7.86**/10
 
 <center><img align="right" src="imgs/resume/sjtulogoblue.png" height="60"/></center>
 
@@ -135,6 +135,7 @@ Bachelor thesis
 - Built a closed-loop stabilized DC power supply using nonsynchronous voltage-mode controller chips, which had a characteristic of a wide input range, an output voltage swing less than 0.8% and an efficiency of 94% at 2A output
 - Developed a human-machine interface for the power supply on the Texas Instruments MSP430 Launchpad, with switch debouncing, manual voltage setting, precise output current monitoring, and power distribution balancing functions
 
+<center><img src="imgs/resume/3A.jpg" width="200"/></center>
 <br>
 
 **Medical Image Segmentation Based on Machine Learning**  
@@ -180,7 +181,7 @@ Bachelor thesis
 MATLAB, Vivado/Vitis, Modelsim, Cadence Spectre, LTspice
 
 **Programming**  
-Python, C/C++, Verilog, VHDL, bash, LaTeX, tcl scripts, CUDA, Spark, Kafka
+Verilog, System Verilog, VHDL, Python, C/C++, bash, Git, MakeFile, LaTeX, TCL scripts, CUDA, Spark
 
 **Scholarship**
 KTH scholarship 2019 (30 out of 2000, didn't accept)
