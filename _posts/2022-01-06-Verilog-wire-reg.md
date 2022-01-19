@@ -13,8 +13,6 @@ This article explains whether we should use wire or reg for input and output.
 
 > If you plan to assign your output in sequential code, such as within an `always` block, declare it as a `reg` (which really is a misnomer for "variable" in Verilog). Otherwise, it should be a `wire`, which is also the default.
 
-
-
 ## Explain
 
 * > An output reg `foo` is just shorthand for `output foo_wire; reg foo; assign foo_wire = foo`.
